@@ -1,0 +1,25 @@
+.project-filters {
+    display: flex;
+    justify-content: normal;
+    margin-bottom: 8px;
+    margin-left: 30px;
+    align-items: relative;
+    
+}
+
+.project-filters__search {
+    min-width: 200px;
+}
+
+.project-filters__filters {
+    margin-top: -8px;
+    margin-left: 20px;
+   
+    
+
+}
+
+.project-filters__search-label {
+    margin-bottom: 4px;
+    font-weight: 500;
+}
